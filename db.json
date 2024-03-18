@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "4",
+      "user": "Ayşe",
+      "title": "React Redux Kullanımı",
+      "text": "Redux ile birlikte React projelerinde nasıl state yönetimi yapılır?",
+      "date": "2023-10-20"
+    },
+    {
+      "id": "5",
+      "user": "Mustafa",
+      "title": "Vue.js Komponentleri",
+      "text": "Vue.js ile komponent tabanlı geliştirme nasıl yapılır?",
+      "date": "2023-10-21T09:45:00.000Z"
+    },
+    {
+      "id": "6",
+      "date": "2023-10-21T14:30:00.000Z",
+      "title": "Angular Routing ve Guards",
+      "text": "Angular projelerinde nasıl güvenlik önlemleri alınır ve yönlendirme nasıl yapılır?",
+      "user": "Mert"
+    },
+    {
+      "id": "7",
+      "user": "Deniz",
+      "title": "Node.js ile RESTful API Oluşturma",
+      "text": "Node.js ve Express ile RESTful API nasıl oluşturulur?",
+      "date": "2023-10-22T08:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "user": "Fatma",
+      "title": "JavaScript Arrow Functions",
+      "text": "JavaScript'de arrow fonksiyonları ve kullanımı hakkında detaylı bilgi.",
+      "date": "2023-10-22T12:15:00.000Z"
+    },
+    {
+      "id": "9d0ae676-2f7e-4ac4-86fa-964def675eb2",
+      "user": "Mert",
+      "title": "JS",
+      "text": "ASDSDSAF"
+    }
+  ]
+}
