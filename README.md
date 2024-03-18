@@ -1,61 +1,22 @@
-# Kütüphaneler
+<h1> Forum App </h1>
+
+I've independently designed and coded a responsive Forum app, and it's ready to explore!
+
+🔸 Project Name: [Forum app]
+
+🔸 Technologies Used: React, axios, json-server, react-router-dom, tailwind
+
+🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers. In this project, I implemented a forum platform that allows users to create and publish posts using MVC architecture.
+
+# Libraries
 
 - axios
 - json-server
 - react-router-dom
 - tailwind
 
-# MVC (Model - View - Controller)
+MVC (Model - View - Controller)
 
-- Model:
+<h2>Screen_Shoot</h2>
 
-* Uygulamanın veri matnığını ve yapısını temsil eder.
-  Örn:
-* Bilşende tutulcak state'in başlangıç değeri
-* Veriyi formatlamaya yarayan fonksiyon
-* Api istekleri tutlabilir
-* Genellikle Class yapısı ile tanımlanır.
-
-- View:
-
-* Son kullanıcnın gördüğü tasarımdır.
-* Bilşenin return satırına yazdığımız jsx elementleri burada tanımlanır.
-
-- Controller:
-
-* View ile model arasındaki bağlantıyı sağlar
-* Kullanıcı etkileşimiyle tetiklenicek bütün fonksiyonlar burada tanımlanır
-
-# MVC Klasör Yapısı
-
-# # 1.yol
-
-- public
-- src
-- - pages
-- - - MainPage
-- - - - MainPageController
-- - - - MainPageView
-- - - - MainPageModel
-
-- - - AuthPage
-- - - - AuthPageController
-- - - - AuthPageView
-- - - - AuthPageModel
-
-# # 2.yol
-
-- public
-- src
-- - controllers
-- - - MainPageController
-- - - AuthPageController
-
-- - models
-- - - MainPageModel
-- - - AuthPageModel
-
-- - views
-- - - MainPageView
-- - - AuthPageView
-# Forum_app
+![](screen_forum_app.gif)
